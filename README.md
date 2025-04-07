@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently a student in the field of Informatics Engineering.
+Currently studying Informatics Engineering.
 
 fairly new to this 
 
