@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 🌱 I’m currently a student in the field of Informatics Engineering
+
 😄 Pronouns: she/her
+
 ⚡ Fun fact: I'm fairly new to this 
 
 <!--
